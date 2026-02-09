@@ -31,4 +31,5 @@ NOTE: im going to mention this now from commit 915c6d1 and below was mostly if n
 i didnt understand CSharp that much and im not going to hide it heres the thing how ever when i use ai generated code i make sure to test it well
 i will never leave unfinished/bugged ai generated code in the mod how ever from that commit above that is were i learned and became more conf in csharp coding and i can say with out a doubt
 i will try to not use ai generated code from here on out now i will use ai assisted code aka if i get stuck on a part of code thats not working il ask ai i hope you understand and i might rework
-alot of my code i do apologise if people dont like code that is ai generated how ever i dont see a issue with it as long as its tested well and it works.
+alot of my code i do apologise if people dont like code that is ai generated how ever i dont see a issue with it as long as its tested well and it works
+Biomelib was slightly ai assisted The CustomPDA Log Mod i worked on wasnt the protection chips was slightly ai assisted mainly the detection of fish and leviathans around the player.
