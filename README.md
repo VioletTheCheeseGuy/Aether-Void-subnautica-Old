@@ -33,3 +33,5 @@ i will never leave unfinished/bugged ai generated code in the mod how ever from 
 i will try to not use ai generated code from here on out now i will use ai assisted code aka if i get stuck on a part of code thats not working il ask ai i hope you understand and i might rework
 alot of my code i do apologise if people dont like code that is ai generated how ever i dont see a issue with it as long as its tested well and it works
 Biomelib was slightly ai assisted The CustomPDA Log Mod i worked on wasnt the protection chips was slightly ai assisted mainly the detection of fish and leviathans around the player.
+
+Extra Note: I'm in the process of thinking about remaking Aether Void as much as i enjoy working on it, it's story doesn't line up to how i want it to as it goes with in random path's making the player find stuff compared to being more friendly on people who just want to play the mod for new content don't second i been dealing with no motivation so i have not been working on this project please do not expect update's soon and it will take about 2 or more month's for me to even fully decide if i want to go through the process again.
